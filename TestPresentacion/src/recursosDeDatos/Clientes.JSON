@@ -1,0 +1,25 @@
+[	
+	{
+		"nombre": "Luis",
+		"direccion": "Pinar del rey",
+		"ciudad": "Madrid",
+		"estado": "Spain",
+		"codigoPostal": "28033",
+		"numeroTarjeta": "123456789",
+		"mesCaducidadTarjeta" :"11",
+		"anyoCaducidadTarjeta" : "2020",
+		"nombreUsuarioTarjeta": "Luis Rodriguez"
+	},
+	{
+		"nombre": "Juan",
+		"direccion": "Avenida Felipe",
+		"ciudad": "Sevilla",
+		"estado": "Spain",
+		"codigoPostal": "28037",
+		"numeroTarjeta": "987654321",
+		"mesCaducidadTarjeta" :"02",
+		"anyoCaducidadTarjeta" : "2024",
+		"nombreUsuarioTarjeta": "Juan Jimenez"
+	}
+	
+]

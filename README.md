@@ -1,4 +1,4 @@
 # PerezRepo
-Repositorio de Perez
 
-JENKING AND SELENIUM TEST ABOUT BLAZEDEMO.COM PAGE
+
+Selenium Automation text about Blazedemo.com using Jenking Feature, enjoy.

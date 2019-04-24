@@ -1,4 +1,4 @@
 # PerezRepo
 
 
-Selenium Automation text about Blazedemo.com using Jenking Feature, enjoy.
+Selenium Automation test about Blazedemo.com using Jenking Feature, enjoy.
